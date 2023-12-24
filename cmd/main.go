@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/DrNikita/VideoStreamingService/internal/chat"
+	"github.com/DrNikita/Video_Streming/internal/chat"
 	log "github.com/sirupsen/logrus"
 	"net/http"
 	"time"
